@@ -97,8 +97,6 @@ Expected Graduation: 202*
 """)
 
 # --- Contact Section ---
-st.header("📫 Contact Me")
-# --- Contact Section ---
 st.header("📬 Contact Me")
 st.markdown("""
 - 📧 Email: [harichhetri.hc12@gmail.com](mailto:harichhetri.hc12@gmail.com)
