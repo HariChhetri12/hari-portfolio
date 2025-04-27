@@ -98,11 +98,13 @@ Expected Graduation: 202*
 
 # --- Contact Section ---
 st.header("📬 Contact Me")
+
 st.markdown("""
 - 📧 Email: <a href="mailto:harichhetri.hc12@gmail.com?subject=Portfolio%20Inquiry&body=Hi%20Hari,%0A%0AI%20saw%20your%20portfolio%20and%20wanted%20to%20connect." target="_blank">harichhetri.hc12@gmail.com</a>
 - 📞 Phone: <a href="tel:17794981">17794981</a>
 - 🏢 CEO at **H.C12 Company**
 """, unsafe_allow_html=True)
+
 
 
 
