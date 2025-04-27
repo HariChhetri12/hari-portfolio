@@ -38,7 +38,7 @@ def load_lottieurl(url: str):
     return r.json()
 
 # --- Load Assets ---
-profile_image = Image.open(r"C:\Users\Chhet\OneDrive\Desktop\photo\H.C12.JPG")
+profile_image = Image.open("photo/H.C12.JPG")
 
 # Fun waving astronaut animation
 lottie_animation = load_lottieurl("https://assets2.lottiefiles.com/packages/lf20_t24tpvcu.json")
