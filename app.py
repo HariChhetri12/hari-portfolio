@@ -97,13 +97,14 @@ Expected Graduation: 202*
 """)
 
 # --- Contact Section ---
-st.header("📬 Contact Me")
-
-st.markdown("""
-- 📧 **Email:** [harichhetri.hc12@gmail.com](mailto:harichhetri.hc12@gmail.com)
-- 📞 **Phone:** [17794981](tel:17794981)
-- 🏢 **CEO at H.C12 Company**
-""", unsafe_allow_html=True)
+st.markdown(
+    """
+    - 📧 Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harichhetri.hc12@gmail.com" target="_blank">harichhetri.hc12@gmail.com</a>
+    - 📞 Phone: <a href="tel:17794981">17794981</a>
+    - 🏢 CEO at **H.C12 Company**
+    """,
+    unsafe_allow_html=True
+)
 
 # --- Footer ---
 st.write("---")
