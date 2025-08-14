@@ -84,7 +84,7 @@ st.write("""
 - Leading innovation in trading and business solutions.
 - Managing teams, technology development, and strategic decisions.
 
-**Student — [Your College Name] (2025 - Present)**  
+**Student — [Gyalpozhing College of Information Technology] (2025 - Present)**  
 - Pursuing Bachelor's Degree while building my business career.
 """)
 
@@ -111,5 +111,6 @@ st.markdown(
 # --- Footer ---
 st.write("---")
 st.caption("Made with ❤️ by Hari Chhetri • Powered by Streamlit • © 2025")
+
 
 
