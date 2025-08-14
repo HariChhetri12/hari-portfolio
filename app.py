@@ -92,7 +92,7 @@ st.write("""
 st.header("🎓 Education")
 st.write("""
 **Bachelor's Degree (Ongoing)**  
-[bachelor of computer science] — [Gyalpozhing College of Information Technology]  
+[Bachelor Of Computer Science] — [Gyalpozhing College of Information Technology]  
 Expected Graduation: 2029
 """)
 
@@ -111,4 +111,5 @@ st.markdown(
 # --- Footer ---
 st.write("---")
 st.caption("Made with ❤️ by Hari Chhetri • Powered by Streamlit • © 2025")
+
 
