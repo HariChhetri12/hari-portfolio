@@ -92,8 +92,8 @@ st.write("""
 st.header("🎓 Education")
 st.write("""
 **Bachelor's Degree (Ongoing)**  
-[Your Major] — [Your College Name]  
-Expected Graduation: 202*
+[bachelor of computer science] — [Gyalpozhing College of Information Technology]  
+Expected Graduation: 2029
 """)
 
 # --- Contact Section ---
@@ -111,3 +111,4 @@ st.markdown(
 # --- Footer ---
 st.write("---")
 st.caption("Made with ❤️ by Hari Chhetri • Powered by Streamlit • © 2025")
+
