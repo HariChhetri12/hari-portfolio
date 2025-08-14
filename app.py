@@ -80,7 +80,7 @@ st.markdown("""
 # --- Experience Section ---
 st.header("💼 Experience")
 st.write("""
-**Founder & CEO — H.C12 Company (2025 - Present)**  
+**Founder & CEO — H.C12 Company (- Present)**  
 - Leading innovation in trading and business solutions.
 - Managing teams, technology development, and strategic decisions.
 
@@ -111,6 +111,7 @@ st.markdown(
 # --- Footer ---
 st.write("---")
 st.caption("Made with ❤️ by Hari Chhetri • Powered by Streamlit • © 2025")
+
 
 
 
